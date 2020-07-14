@@ -1,0 +1,64 @@
+"UNIQ_ID","NAME","Country","Virus","CASE_TYPE","DATA_TYPE","LAT","LONG","SPR_ORDER","SOURCE_1","SOURCE_2","SOURCE_3","STR_DAY","STR_MNTH","STR_YEAR","END_DAY","END_MNTH","END_YEAR","REP_CASE","REP_DEATH","OB_ID","OB_STR_DAY","OB_STR_MNTH","OB_STR_YEAR","OB_END_DAY","OB_END_MNTH","OB_END_YEAR","OB_CASE","OB_DEATH"
+101,"Nzara (Cotton Factory)","South Sudan","Ebola Sudan","index","point",4.63912,28.25115,1,NA,NA,NA,27,6,1976,NA,NA,NA,NA,NA,"1",27,6,1976,25,11,1976,284,151
+102,"Nzara hospital","South Sudan","Ebola Sudan","secondary","point",4.64247,28.24864,2,101,NA,NA,6,7,1976,NA,NA,NA,NA,NA,"1",27,6,1976,25,11,1976,284,151
+103,"Nzara township","South Sudan","Ebola Sudan","secondary","point",4.63912,28.25115,3,101,NA,NA,NA,8,1976,NA,NA,NA,67,31,"1",27,6,1976,25,11,1976,284,151
+104,"Maridi General Hospital","South Sudan","Ebola Sudan","secondary","point",4.91599,29.46482,4,103,NA,NA,7,8,1976,NA,NA,NA,NA,NA,"1",27,6,1976,25,11,1976,284,151
+105,"Maridi township","South Sudan","Ebola Sudan","secondary","point",4.91599,29.46482,5,104,NA,NA,NA,8,1976,NA,NA,NA,213,116,"1",27,6,1976,25,11,1976,284,151
+106,"Juba hospital","South Sudan","Ebola Sudan","secondary","point",4.82768,31.59637,7,102,104,NA,NA,9,1976,NA,NA,NA,1,1,"1",27,6,1976,25,11,1976,284,151
+107,"Tembura (Tambura in GMs)","South Sudan","Ebola Sudan","secondary","point",5.60639,27.47306,NA,103,NA,NA,NA,10,1976,NA,NA,NA,3,3,"1",27,6,1976,25,11,1976,284,151
+108,"Omdurman hospital","Sudan","Ebola Sudan","import","point",15.64228,32.48741,6,103,NA,NA,21,8,1976,NA,NA,NA,1,1,"1",27,6,1976,25,11,1976,284,151
+109,"Khartoum hospital","Sudan","Ebola Sudan","import","point",15.56667,32.51667,8,106,NA,NA,NA,9,1976,NA,NA,NA,NA,NA,"1",27,6,1976,25,11,1976,284,151
+110,"Yambuku village (index)","Congo, the Democratic Republic of the","Ebola Zaire","index","point",2.82535,22.22567,1,NA,NA,NA,1,9,1976,NA,NA,NA,NA,NA,"2",1,9,1976,24,10,1976,318,280
+111,"Yambuku village (secondary)","Congo, the Democratic Republic of the","Ebola Zaire","secondary","point",2.82535,22.22567,2,110,NA,NA,NA,9,1976,NA,NA,NA,NA,NA,"2",1,9,1976,24,10,1976,318,280
+114,"Ngaliema hospital, Kinshasa","Congo, the Democratic Republic of the","Ebola Zaire","secondary","point",-4.31464,15.27105,4,111,NA,NA,25,9,1976,NA,NA,NA,3,3,"2",1,9,1976,24,10,1976,318,280
+116,"Nzara town","South Sudan","Ebola Sudan","index","point",4.639,28.25115,1,NA,NA,NA,31,7,1979,NA,NA,NA,NA,NA,"4",31,7,1979,6,10,1979,34,22
+117,"Nzara hospital","South Sudan","Ebola Sudan","secondary","point",4.639,28.25115,2,116,NA,NA,NA,8,1979,NA,NA,NA,NA,NA,"4",31,7,1979,6,10,1979,34,22
+122,"Mekouka","Gabon","Ebola Zaire","secondary","point",1.4,12.983,2,121,NA,NA,13,11,1994,NA,NA,NA,23,NA,"6",13,11,1994,9,2,1995,49,30
+123,"Andock","Gabon","Ebola Zaire","secondary","point",1.483,12.917,3,121,NA,NA,29,11,1994,NA,NA,NA,4,NA,"6",13,11,1994,9,2,1995,49,30
+124,"Minkebe","Gabon","Ebola Zaire","secondary","point",1.76667,12.8,4,122,123,NA,NA,12,1994,NA,NA,NA,5,NA,"6",13,11,1994,9,2,1995,49,30
+125,"Makokou general hospital","Gabon","Ebola Zaire","secondary","point",0.56667,12.86667,5,122,123,124,NA,1,1995,NA,NA,NA,1,NA,"6",13,11,1994,9,2,1995,49,30
+126,"Mayela","Gabon","Ebola Zaire","secondary","point",0.61618,12.95219,6,125,NA,NA,NA,1,1995,NA,NA,NA,13,NA,"6",13,11,1994,9,2,1995,49,30
+127,"Etakaniabe","Gabon","Ebola Zaire","import","point",0.53304,12.95795,7,125,NA,NA,NA,1,1995,NA,NA,NA,1,NA,"6",13,11,1994,9,2,1995,49,30
+128,"Ekobakoba","Gabon","Ebola Zaire","import","point",0.56329,12.89349,8,125,NA,NA,NA,2,1995,NA,NA,NA,2,NA,"6",13,11,1994,9,2,1995,49,30
+130,"Kikwit","Congo, the Democratic Republic of the","Ebola Zaire","secondary","point",-5.03333,18.81667,2,129,NA,NA,NA,1,1995,NA,NA,NA,268,NA,"7",6,1,1995,16,7,1995,315,250
+131,"Kikwit 2 maternity hospital","Congo, the Democratic Republic of the","Ebola Zaire","secondary","point",-5.03333,18.81667,3,130,NA,NA,NA,3,1995,NA,NA,NA,NA,NA,"7",6,1,1995,16,7,1995,315,250
+132,"Kikwit general hospital","Congo, the Democratic Republic of the","Ebola Zaire","secondary","point",-5.03333,18.81667,4,131,NA,NA,9,4,1995,NA,NA,NA,NA,NA,"7",6,1,1995,16,7,1995,315,250
+134,"Mosango hospital","Congo, the Democratic Republic of the","Ebola Zaire","secondary","point",-4.88687,18.12212,NA,NA,NA,NA,NA,NA,1995,NA,NA,NA,NA,NA,"7",6,1,1995,16,7,1995,315,250
+135,"Mosango town","Congo, the Democratic Republic of the","Ebola Zaire","secondary","point",-4.88687,18.12212,NA,NA,NA,NA,NA,NA,1995,NA,NA,NA,17,NA,"7",6,1,1995,16,7,1995,315,250
+138,"Kinshasa hospital","Congo, the Democratic Republic of the","Ebola Zaire","import","point",-4.30889,15.30559,NA,NA,NA,NA,NA,NA,1995,NA,NA,NA,NA,NA,"7",6,1,1995,16,7,1995,315,250
+139,"Mayibout 2 (index)","Gabon","Ebola Zaire","index","point",1.11667,13.1,1,NA,NA,NA,31,1,1996,19,2,1996,23,13,"8",31,1,1996,3,3,1996,31,21
+140,"Mayibout 2 (secondary)","Gabon","Ebola Zaire","secondary","point",1.11667,13.1,2,139,NA,NA,3,2,1996,19,2,1996,23,13,"8",31,1,1996,3,3,1996,31,21
+141,"Makokou general hospital","Gabon","Ebola Zaire","import","point",0.56667,12.86667,3,139,NA,NA,12,2,1996,18,2,1996,5,5,"8",31,1,1996,3,3,1996,31,21
+142,"Logging camp nr Booue (index 1)","Gabon","Ebola Zaire","index","point",0.1,11.95,1,NA,NA,NA,13,7,1976,NA,NA,NA,NA,NA,"9",13,7,1996,18,1,1997,60,45
+143,"Logging camp nr Booue (index 2)","Gabon","Ebola Zaire","index","point",0.1,11.95,1,NA,NA,NA,25,8,1976,NA,NA,NA,NA,NA,"9",13,7,1996,18,1,1997,60,45
+144,"Logging camp nr Booue (index 3)","Gabon","Ebola Zaire","index","point",0.1,11.95,1,NA,NA,NA,12,9,1976,NA,NA,NA,NA,NA,"9",13,7,1996,18,1,1997,60,45
+145,"Balimba village (sp. Balemba in GE)","Gabon","Ebola Zaire","secondary","point",0.11667,11.88333,2,144,NA,NA,NA,9,1976,NA,NA,NA,NA,NA,"9",13,7,1996,18,1,1997,60,45
+146,"Booue","Gabon","Ebola Zaire","secondary","point",-0.09363,11.94907,3,145,NA,NA,NA,9,1976,NA,NA,NA,25,NA,"9",13,7,1996,18,1,1997,60,45
+150,"Lastourville","Gabon","Ebola Zaire","import","point",-0.81832,12.725,NA,145,NA,NA,NA,NA,1976,NA,NA,NA,NA,NA,"9",13,7,1996,18,1,1997,60,45
+151,"Makokou general hospital","Gabon","Ebola Zaire","import","point",0.56667,12.86667,NA,145,NA,NA,NA,9,1976,NA,NA,NA,NA,NA,"9",13,7,1996,18,1,1997,60,45
+152,"Rwot-Obilo","Uganda","Ebola Sudan","index","point",2.94998,32.19997,1,NA,NA,NA,30,8,2000,NA,NA,NA,NA,NA,"10",30,8,2000,9,1,2001,425,224
+156,"Lacor Hospital","Uganda","Ebola Sudan","secondary","point",2.76761,32.25334,NA,NA,NA,NA,NA,10,2000,NA,NA,NA,NA,NA,"10",30,8,2000,9,1,2001,425,224
+157,"Gulu regional referral hospital","Uganda","Ebola Sudan","secondary","point",2.77768,32.29835,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"10",30,8,2000,9,1,2001,425,224
+158,"Masindi hospital","Uganda","Ebola Sudan","secondary","point",1.68537,31.71331,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"10",30,8,2000,9,1,2001,425,224
+159,"Mbarara hospital","Uganda","Ebola Sudan","secondary","point",-0.61158,30.65154,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"10",30,8,2000,9,1,2001,425,224
+160,"Memdemba","Gabon","Ebola Zaire","index","point",0.70055,14.15543,1,NA,NA,NA,21,10,2001,NA,NA,NA,NA,NA,"11a",21,10,2001,18,3,2002,124,97
+162,"Ekata","Gabon","Ebola Zaire","index","point",0.67705,14.28902,1,NA,NA,NA,NA,11,2001,NA,NA,NA,NA,NA,"11c",21,10,2001,18,3,2002,124,97
+163,"Oloba, Mbomo district","Congo","Ebola Zaire","index","point",0.62049,14.37774,1,NA,NA,NA,NA,12,2001,NA,NA,NA,NA,NA,"11d",21,10,2001,18,3,2002,124,97
+166,"Mekambo health center, La Zadie district, Gabon","Gabon","Ebola Zaire","secondary","point",1.01113,13.95211,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"11",21,10,2001,18,3,2002,124,97
+167,"Makokou Regional Hopsital, Ivindo district, Gabon","Gabon","Ebola Zaire","secondary","point",0.56372,12.84739,NA,168,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"11",21,10,2001,18,3,2002,124,97
+172,"Franceville, Mpassa district, Gabon","Gabon","Ebola Zaire","import","point",-1.63333,13.58333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,"11",21,10,2001,18,3,2002,124,97
+173,"Yembelangoye village (Kullu district, Cuvette Ouest)","Congo","Ebola Zaire","index","point",0.13418,14.20981,1,NA,NA,NA,21,12,2002,NA,NA,NA,NA,NA,"12a",21,12,2002,NA,4,2003,143,128
+175,"Mvoula camp (Kullu district, Cuvette Ouest)","Congo","Ebola Zaire","index","point",0.06823,14.41997,1,NA,NA,NA,1,1,2003,NA,NA,NA,NA,NA,"12c",21,12,2003,NA,4,2003,143,128
+176,"Entsiami health center","Congo","Ebola Zaire","secondary","point",0.12472,14.22778,2,NA,NA,NA,NA,1,2003,NA,NA,NA,1,NA,"12",21,12,2002,NA,4,2003,143,128
+177,"Kelle health center","Congo","Ebola Zaire","secondary","point",-0.06667,14.5,2,NA,NA,NA,NA,1,2003,NA,NA,NA,2,NA,"12",21,12,2002,NA,4,2003,143,128
+181,"Mbandza village","Congo","Ebola Zaire","secondary","point",0.56015,14.65733,2,180,NA,NA,NA,10,2003,NA,NA,NA,2,2,"13",11,10,2003,2,12,2003,35,29
+182,"Mbomo village","Congo","Ebola Zaire","secondary","point",0.42866,14.69668,3,181,NA,NA,NA,NA,2003,NA,NA,NA,31,25,"13",11,10,2003,2,12,2003,35,29
+184,"Yambio town","South Sudan","Ebola Sudan","secondary","point",4.57757,28.39878,2,183,NA,NA,NA,4,2004,NA,NA,NA,NA,NA,"14",15,4,2004,26,6,2004,17,7
+187,"Etoumbi","Congo","Ebola Zaire","secondary","point",0.02028,14.88925,2,186,NA,NA,30,4,2005,NA,NA,NA,9,7,"15",18,4,2005,18,5,2005,12,10
+188,"Mbomo","Congo","Ebola Zaire","import","point",0.42866,14.69668,3,187,NA,NA,28,4,2005,NA,NA,NA,1,1,"15",18,4,2005,18,5,2005,12,10
+189,"Bamoukamba 2 (index)","Congo, the Democratic Republic of the","Ebola Zaire","index","point",-5.25956,21.40954,1,NA,NA,NA,NA,5,2007,NA,NA,NA,NA,NA,"16",NA,5,2007,NA,11,2007,264,186
+190,"Bamoukamba 2 (secondary)","Congo, the Democratic Republic of the","Ebola Zaire","secondary","point",-5.25838,21.40981,2,189,NA,NA,12,6,2007,NA,NA,NA,NA,NA,"16",NA,5,2007,NA,11,2007,264,186
+191,"Ndongo 2","Congo, the Democratic Republic of the","Ebola Zaire","secondary","point",-5.27499,21.41121,3,190,NA,NA,25,6,2007,NA,NA,NA,NA,NA,"16",NA,5,2007,NA,11,2007,264,186
+195,"Kabango village (Kasitu subcounty, Bundibugyo district) (index)","Uganda","Ebola Bundibugyo","index","point",0.7706,30.13041,1,NA,NA,NA,1,8,2007,NA,NA,NA,NA,NA,"17",1,8,2007,NA,12,2007,116,39
+196,"Kabango village (secondary)","Uganda","Ebola Bundibugyo","secondary","point",0.7706,30.13041,2,195,NA,NA,NA,8,2007,NA,NA,NA,9,6,"17",1,8,2007,NA,12,2007,116,39
+207,"Nakisamata village (Luwero District)","Uganda","Ebola Sudan","index","point",0.62415,32.73669,1,NA,NA,NA,6,5,2011,6,5,2011,1,1,"19",6,5,2011,6,5,2011,1,1

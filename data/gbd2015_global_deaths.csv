@@ -1,0 +1,157 @@
+"year_id","sex","cause_name","val","lower","upper"
+1990,"Male","Communicable, maternal, neonatal, and nutritional diseases",8182493.13211,7931026.69063,8503642.44125
+1991,"Male","Communicable, maternal, neonatal, and nutritional diseases",8117283.39499,7867571.3476,8430091.2688
+1992,"Male","Communicable, maternal, neonatal, and nutritional diseases",8049803.53644,7806738.25349,8352950.87032
+1993,"Male","Communicable, maternal, neonatal, and nutritional diseases",7982708.8577,7747595.84907,8296629.10352
+1994,"Male","Communicable, maternal, neonatal, and nutritional diseases",7919664.87592,7686604.9217,8228300.60897
+1995,"Male","Communicable, maternal, neonatal, and nutritional diseases",7897757.15887,7677987.767,8224916.071
+1996,"Male","Communicable, maternal, neonatal, and nutritional diseases",7816223.78293,7606612.30433,8133466.43788
+1997,"Male","Communicable, maternal, neonatal, and nutritional diseases",7740220.96248,7535454.5366,8041909.49236
+1998,"Male","Communicable, maternal, neonatal, and nutritional diseases",7688064.76161,7487567.9486,8014488.22556
+1999,"Male","Communicable, maternal, neonatal, and nutritional diseases",7662258.97571,7468399.51502,7970143.69735
+2000,"Male","Communicable, maternal, neonatal, and nutritional diseases",7633208.80558,7435007.61853,7941360.13584
+2001,"Male","Communicable, maternal, neonatal, and nutritional diseases",7585546.52837,7391725.94033,7913884.04184
+2002,"Male","Communicable, maternal, neonatal, and nutritional diseases",7543680.69481,7349536.5557,7871485.1956
+2003,"Male","Communicable, maternal, neonatal, and nutritional diseases",7443988.93264,7252038.00334,7746576.14851
+2004,"Male","Communicable, maternal, neonatal, and nutritional diseases",7355061.16022,7165365.75333,7651527.72513
+2005,"Male","Communicable, maternal, neonatal, and nutritional diseases",7254451.07181,7057817.53902,7529254.35659
+2006,"Male","Communicable, maternal, neonatal, and nutritional diseases",7108403.24706,6906826.97118,7377426.32722
+2007,"Male","Communicable, maternal, neonatal, and nutritional diseases",6966009.00251,6764005.03492,7223976.88809
+2008,"Male","Communicable, maternal, neonatal, and nutritional diseases",6831294.67535,6629396.80894,7085158.39405
+2009,"Male","Communicable, maternal, neonatal, and nutritional diseases",6700954.91243,6495627.5593,6952032.25259
+2010,"Male","Communicable, maternal, neonatal, and nutritional diseases",6585685.25431,6376310.61933,6828782.33326
+2011,"Male","Communicable, maternal, neonatal, and nutritional diseases",6456875.72762,6245436.30964,6699316.88611
+2012,"Male","Communicable, maternal, neonatal, and nutritional diseases",6322510.33827,6097870.3121,6574528.25052
+2013,"Male","Communicable, maternal, neonatal, and nutritional diseases",6205483.94429,5971744.01651,6470653.82135
+2014,"Male","Communicable, maternal, neonatal, and nutritional diseases",6116481.53081,5871991.34344,6400833.0138
+2015,"Male","Communicable, maternal, neonatal, and nutritional diseases",5992331.03527,5738840.49425,6281332.67728
+1990,"Female","Communicable, maternal, neonatal, and nutritional diseases",7722547.3132,7477722.33373,7950026.51791
+1991,"Female","Communicable, maternal, neonatal, and nutritional diseases",7625180.06908,7383658.9257,7846529.62461
+1992,"Female","Communicable, maternal, neonatal, and nutritional diseases",7542366.19959,7307913.71406,7747407.6272
+1993,"Female","Communicable, maternal, neonatal, and nutritional diseases",7454859.2264,7226499.83455,7659841.31188
+1994,"Female","Communicable, maternal, neonatal, and nutritional diseases",7377702.0951,7161229.1715,7578418.84026
+1995,"Female","Communicable, maternal, neonatal, and nutritional diseases",7344858.62716,7124349.27351,7546260.42544
+1996,"Female","Communicable, maternal, neonatal, and nutritional diseases",7276574.38069,7068293.74573,7468482.32435
+1997,"Female","Communicable, maternal, neonatal, and nutritional diseases",7217083.95456,7011750.42967,7406343.18557
+1998,"Female","Communicable, maternal, neonatal, and nutritional diseases",7176835.37682,6975140.18866,7363127.15253
+1999,"Female","Communicable, maternal, neonatal, and nutritional diseases",7151654.07065,6952976.47181,7335280.0107
+2000,"Female","Communicable, maternal, neonatal, and nutritional diseases",7120059.03401,6925504.61304,7304629.17483
+2001,"Female","Communicable, maternal, neonatal, and nutritional diseases",7081920.06727,6885016.66032,7263556.25081
+2002,"Female","Communicable, maternal, neonatal, and nutritional diseases",7051052.13276,6857508.75993,7220837.88409
+2003,"Female","Communicable, maternal, neonatal, and nutritional diseases",6955321.90597,6768738.10739,7133519.40467
+2004,"Female","Communicable, maternal, neonatal, and nutritional diseases",6876449.5733,6692198.46276,7047406.78539
+2005,"Female","Communicable, maternal, neonatal, and nutritional diseases",6769439.82553,6583588.54176,6935235.36254
+2006,"Female","Communicable, maternal, neonatal, and nutritional diseases",6613335.07944,6426647.56358,6777219.8625
+2007,"Female","Communicable, maternal, neonatal, and nutritional diseases",6449250.35465,6261478.57781,6608425.64086
+2008,"Female","Communicable, maternal, neonatal, and nutritional diseases",6283948.98004,6107511.75741,6440132.10658
+2009,"Female","Communicable, maternal, neonatal, and nutritional diseases",6132650.21849,5963004.71751,6293344.68202
+2010,"Female","Communicable, maternal, neonatal, and nutritional diseases",6003441.1396,5833198.19797,6170642.45867
+2011,"Female","Communicable, maternal, neonatal, and nutritional diseases",5845539.76354,5675313.39239,6013412.0988
+2012,"Female","Communicable, maternal, neonatal, and nutritional diseases",5673069.08441,5499582.03578,5839078.42698
+2013,"Female","Communicable, maternal, neonatal, and nutritional diseases",5523494.28818,5353026.36525,5691022.987
+2014,"Female","Communicable, maternal, neonatal, and nutritional diseases",5407049.66552,5224832.07484,5583864.57072
+2015,"Female","Communicable, maternal, neonatal, and nutritional diseases",5271301.67511,5078971.93455,5455889.69789
+1990,"Male","Non-communicable diseases",14191856.9408,13843562.9329,14565385.4779
+1991,"Male","Non-communicable diseases",14421343.0116,14074205.9891,14789818.0889
+1992,"Male","Non-communicable diseases",14766738.6361,14401748.7495,15139511.4832
+1993,"Male","Non-communicable diseases",15204290.9004,14863022.8332,15562924.157
+1994,"Male","Non-communicable diseases",15579178.0771,15242653.4112,15922033.4485
+1995,"Male","Non-communicable diseases",15802035.9421,15475074.7468,16129182.1023
+1996,"Male","Non-communicable diseases",15910182.8207,15588938.4992,16231933.6298
+1997,"Male","Non-communicable diseases",16064767.9706,15759751.2726,16359095.906
+1998,"Male","Non-communicable diseases",16309376.7158,15987666.6907,16593053.8491
+1999,"Male","Non-communicable diseases",16665204.4995,16363663.0591,16944490.2068
+2000,"Male","Non-communicable diseases",17008750.6355,16694139.8151,17288724.3756
+2001,"Male","Non-communicable diseases",17347908.2847,17040044.6307,17619530.4064
+2002,"Male","Non-communicable diseases",17761785.8537,17453040.8539,18044093.6031
+2003,"Male","Non-communicable diseases",17905882.5245,17599805.469,18194137.6477
+2004,"Male","Non-communicable diseases",18020572.0315,17712193.7783,18310753.6837
+2005,"Male","Non-communicable diseases",18308566.3336,17995933.0094,18607057.0109
+2006,"Male","Non-communicable diseases",18380939.8831,18074045.3618,18692911.7874
+2007,"Male","Non-communicable diseases",18610155.296,18304557.6592,18937822.6602
+2008,"Male","Non-communicable diseases",18918740.7917,18601763.3743,19238905.6763
+2009,"Male","Non-communicable diseases",19196004.4433,18868398.687,19537691.5213
+2010,"Male","Non-communicable diseases",19558041.2161,19224429.5559,19913976.3095
+2011,"Male","Non-communicable diseases",19793889.6272,19443482.7223,20163108.1376
+2012,"Male","Non-communicable diseases",20143272.4871,19761551.7802,20539844.9262
+2013,"Male","Non-communicable diseases",20537339.0329,20131362.5823,20948304.4255
+2014,"Male","Non-communicable diseases",21061862.7684,20622258.0823,21512507.0642
+2015,"Male","Non-communicable diseases",21534072.901,21080820.7761,22019072.5481
+1990,"Female","Non-communicable diseases",13396422.3057,13096584.0801,13762836.5348
+1991,"Female","Non-communicable diseases",13579861.0643,13283348.3658,13958452.6905
+1992,"Female","Non-communicable diseases",13836016.902,13546552.1263,14197378.4061
+1993,"Female","Non-communicable diseases",14211769.5036,13917942.9763,14568494.8915
+1994,"Female","Non-communicable diseases",14484998.4356,14210367.103,14837160.4554
+1995,"Female","Non-communicable diseases",14683165.5026,14418801.5839,15026881.5312
+1996,"Female","Non-communicable diseases",14773801.3199,14522551.6028,15085746.5709
+1997,"Female","Non-communicable diseases",14908166.5646,14663237.6908,15201800.3375
+1998,"Female","Non-communicable diseases",15093828.8459,14853363.7401,15377642.9347
+1999,"Female","Non-communicable diseases",15416798.3863,15178020.4489,15701058.9558
+2000,"Female","Non-communicable diseases",15691456.8193,15455243.6035,15968684.035
+2001,"Female","Non-communicable diseases",15930983.6418,15688094.293,16201289.0556
+2002,"Female","Non-communicable diseases",16174649.4221,15929214.7576,16436728.1834
+2003,"Female","Non-communicable diseases",16290959.9982,16058958.2899,16562133.6008
+2004,"Female","Non-communicable diseases",16319250.5521,16082429.271,16597746.4292
+2005,"Female","Non-communicable diseases",16527013.1356,16291964.3181,16818632.4233
+2006,"Female","Non-communicable diseases",16525638.4561,16288287.4348,16809077.9757
+2007,"Female","Non-communicable diseases",16604560.2504,16370488.6664,16890919.7442
+2008,"Female","Non-communicable diseases",16748681.1449,16510782.3259,17024099.7251
+2009,"Female","Non-communicable diseases",16860788.6405,16624013.5463,17155727.9079
+2010,"Female","Non-communicable diseases",17050863.0654,16797445.5639,17348761.0738
+2011,"Female","Non-communicable diseases",17145487.9679,16878125.7805,17457994.3006
+2012,"Female","Non-communicable diseases",17358559.1903,17076231.1455,17711944.7509
+2013,"Female","Non-communicable diseases",17604559.2208,17303359.3607,17977741.5059
+2014,"Female","Non-communicable diseases",17965904.8083,17646282.4343,18351841.6553
+2015,"Female","Non-communicable diseases",18270124.4003,17918489.2465,18683914.4136
+1990,"Male","Injuries",2940055.37772,2801381.71745,3054653.81404
+1991,"Male","Injuries",3047648.90755,2889838.56116,3169827.86431
+1992,"Male","Injuries",2980449.62849,2832546.14027,3082048.33845
+1993,"Male","Injuries",3064720.88275,2908704.74618,3167255.51324
+1994,"Male","Injuries",3488318.7205,3160238.0803,3903528.36432
+1995,"Male","Injuries",3146955.66911,2992649.79575,3248534.81433
+1996,"Male","Injuries",3161127.96505,3010753.26771,3258778.91309
+1997,"Male","Injuries",3146448.60017,2992042.78814,3241092.11427
+1998,"Male","Injuries",3171108.70181,3021373.76363,3260566.64486
+1999,"Male","Injuries",3224621.90757,3083988.55571,3318187.59953
+2000,"Male","Injuries",3210102.98188,3073447.74129,3299739.07242
+2001,"Male","Injuries",3192148.38707,3063538.91958,3300777.81176
+2002,"Male","Injuries",3214167.87387,3089587.77682,3294966.41114
+2003,"Male","Injuries",3244909.41762,3108690.25204,3329187.16892
+2004,"Male","Injuries",3373724.99775,3193952.42997,3515947.93111
+2005,"Male","Injuries",3294888.49374,3120843.88165,3380923.40436
+2006,"Male","Injuries",3238691.39744,3064435.13395,3322998.76974
+2007,"Male","Injuries",3228870.02382,3052548.94248,3315344.32495
+2008,"Male","Injuries",3362034.5742,3172091.53369,3491317.4221
+2009,"Male","Injuries",3206631.48588,3016550.22467,3290055.96566
+2010,"Male","Injuries",3344499.29168,3135924.16929,3500816.69107
+2011,"Male","Injuries",3225808.28939,3030794.98767,3324568.46165
+2012,"Male","Injuries",3218754.02461,3025702.5765,3321979.17794
+2013,"Male","Injuries",3230027.05067,3031347.95729,3335099.68341
+2014,"Male","Injuries",3266526.13583,3071090.14094,3383153.5792
+2015,"Male","Injuries",3325789.43468,3109875.22181,3457825.74949
+1990,"Female","Injuries",1487577.71961,1295129.46672,1600455.65086
+1991,"Female","Injuries",1533650.25459,1331593.93204,1646784.13414
+1992,"Female","Injuries",1482342.14577,1281314.78357,1590733.77004
+1993,"Female","Injuries",1500291.66293,1300245.64919,1605350.93058
+1994,"Female","Injuries",1638522.61569,1402901.82587,1819863.09234
+1995,"Female","Injuries",1513629.17841,1307493.42882,1611777.75694
+1996,"Female","Injuries",1511809.99119,1311890.35389,1605840.70157
+1997,"Female","Injuries",1501772.57856,1303293.32416,1593296.37832
+1998,"Female","Injuries",1500733.73987,1308207.73647,1589791.84401
+1999,"Female","Injuries",1508774.57952,1322037.55475,1599688.28678
+2000,"Female","Injuries",1479585.62997,1306675.71483,1564290.89737
+2001,"Female","Injuries",1465200.92657,1299281.81047,1547570.20509
+2002,"Female","Injuries",1458175.78954,1299673.63144,1535747.15347
+2003,"Female","Injuries",1465570.87143,1308315.06242,1539757.83365
+2004,"Female","Injuries",1529605.47962,1352277.38876,1625494.79661
+2005,"Female","Injuries",1464111.29959,1309878.00268,1533890.77552
+2006,"Female","Injuries",1423700.57553,1271482.41629,1486743.5237
+2007,"Female","Injuries",1406417.21505,1252965.02768,1466972.70304
+2008,"Female","Injuries",1478432.52891,1315125.61221,1561393.79158
+2009,"Female","Injuries",1385218.46765,1235671.90879,1440442.69239
+2010,"Female","Injuries",1470344.64563,1303470.25329,1574285.77208
+2011,"Female","Injuries",1382312.00666,1226049.83037,1439969.05588
+2012,"Female","Injuries",1370194.31151,1215579.4539,1433664.33134
+2013,"Female","Injuries",1375949.52138,1222563.63675,1446057.4212
+2014,"Female","Injuries",1382968.17705,1223972.16601,1459034.64109
+2015,"Female","Injuries",1399264.83299,1246352.11751,1484818.27493

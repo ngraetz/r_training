@@ -1,0 +1,580 @@
+location_name,sex_name,years,mean
+Afghanistan,Males,years,3.23
+Afghanistan,Females,years,0.6
+Afghanistan,Both,years,1.92
+Albania,Males,years,11.31
+Albania,Females,years,10.68
+Albania,Both,years,11
+Algeria,Males,years,4.82
+Algeria,Females,years,3.45
+Algeria,Both,years,4.14
+Andorra,Males,years,12.88
+Andorra,Females,years,12.82
+Andorra,Both,years,12.85
+Angola,Males,years,5.52
+Angola,Females,years,3.06
+Angola,Both,years,4.29
+Antigua and Barbuda,Males,years,12.64
+Antigua and Barbuda,Females,years,13.79
+Antigua and Barbuda,Both,years,13.22
+Argentina,Males,years,10.73
+Argentina,Females,years,11.32
+Argentina,Both,years,11.02
+Armenia,Males,years,12
+Armenia,Females,years,12.13
+Armenia,Both,years,12.06
+Australasia,Males,years,13.62
+Australasia,Females,years,13.79
+Australasia,Both,years,13.7
+Australia,Males,years,13.57
+Australia,Females,years,13.72
+Australia,Both,years,13.65
+Austria,Males,years,12.67
+Austria,Females,years,12.29
+Austria,Both,years,12.48
+Azerbaijan,Males,years,12.75
+Azerbaijan,Females,years,12.04
+Azerbaijan,Both,years,12.4
+Bahrain,Males,years,8.02
+Bahrain,Females,years,6.9
+Bahrain,Both,years,7.46
+Bangladesh,Males,years,5.38
+Bangladesh,Females,years,3.01
+Bangladesh,Both,years,4.2
+Barbados,Males,years,8.62
+Barbados,Females,years,8.51
+Barbados,Both,years,8.56
+Belarus,Males,years,13.3
+Belarus,Females,years,13.63
+Belarus,Both,years,13.46
+Belgium,Males,years,13.05
+Belgium,Females,years,13.18
+Belgium,Both,years,13.12
+Belize,Males,years,8.71
+Belize,Females,years,8.53
+Belize,Both,years,8.62
+Benin,Males,years,4
+Benin,Females,years,1.68
+Benin,Both,years,2.84
+Bhutan,Males,years,5.26
+Bhutan,Females,years,2.09
+Bhutan,Both,years,3.68
+Bolivia,Males,years,8.78
+Bolivia,Females,years,7.05
+Bolivia,Both,years,7.91
+Bosnia and Herzegovina,Males,years,10.54
+Bosnia and Herzegovina,Females,years,9.61
+Bosnia and Herzegovina,Both,years,10.07
+Botswana,Males,years,5.28
+Botswana,Females,years,5.55
+Botswana,Both,years,5.41
+Brazil,Males,years,6.81
+Brazil,Females,years,7.28
+Brazil,Both,years,7.05
+Brunei,Males,years,13.08
+Brunei,Females,years,11.98
+Brunei,Both,years,12.53
+Bulgaria,Males,years,12.17
+Bulgaria,Females,years,12.48
+Bulgaria,Both,years,12.33
+Burkina Faso,Males,years,1.73
+Burkina Faso,Females,years,0.91
+Burkina Faso,Both,years,1.32
+Burundi,Males,years,4.1
+Burundi,Females,years,2.4
+Burundi,Both,years,3.25
+Cambodia,Males,years,6.12
+Cambodia,Females,years,3.77
+Cambodia,Both,years,4.95
+Cameroon,Males,years,6.84
+Cameroon,Females,years,4.67
+Cameroon,Both,years,5.76
+Canada,Males,years,14.8
+Canada,Females,years,15.04
+Canada,Both,years,14.92
+Cape Verde,Males,years,5.01
+Cape Verde,Females,years,3.15
+Cape Verde,Both,years,4.08
+Caribbean,Males,years,9.11
+Caribbean,Females,years,8.81
+Caribbean,Both,years,8.96
+Central African Republic,Males,years,5.3
+Central African Republic,Females,years,2.24
+Central African Republic,Both,years,3.77
+Central Asia,Males,years,12.41
+Central Asia,Females,years,12.13
+Central Asia,Both,years,12.27
+Chad,Males,years,2.97
+Chad,Females,years,0.84
+Chad,Both,years,1.91
+Chile,Males,years,11.06
+Chile,Females,years,11.34
+Chile,Both,years,11.2
+China,Males,years,9.18
+China,Females,years,6.96
+China,Both,years,8.07
+Colombia,Males,years,8.24
+Colombia,Females,years,8.49
+Colombia,Both,years,8.36
+Comoros,Males,years,4.55
+Comoros,Females,years,2.58
+Comoros,Both,years,3.56
+Congo,Males,years,8.81
+Congo,Females,years,5.75
+Congo,Both,years,7.28
+Costa Rica,Males,years,8.95
+Costa Rica,Females,years,9.38
+Costa Rica,Both,years,9.16
+Cote d'Ivoire,Males,years,4.41
+Cote d'Ivoire,Females,years,2.09
+Cote d'Ivoire,Both,years,3.25
+Croatia,Males,years,11.1
+Croatia,Females,years,10.57
+Croatia,Both,years,10.84
+Cuba,Males,years,11.26
+Cuba,Females,years,11.17
+Cuba,Both,years,11.21
+Cyprus,Males,years,12.67
+Cyprus,Females,years,12.16
+Cyprus,Both,years,12.41
+Czech Republic,Males,years,13.9
+Czech Republic,Females,years,13.7
+Czech Republic,Both,years,13.8
+Democratic Republic of the Congo,Males,years,7.95
+Democratic Republic of the Congo,Females,years,4.26
+Democratic Republic of the Congo,Both,years,6.1
+Denmark,Males,years,14.16
+Denmark,Females,years,14.35
+Denmark,Both,years,14.25
+Djibouti,Males,years,5.67
+Djibouti,Females,years,2
+Djibouti,Both,years,3.83
+Dominica,Males,years,10.42
+Dominica,Females,years,11.03
+Dominica,Both,years,10.72
+Dominican Republic,Males,years,8.15
+Dominican Republic,Females,years,8.37
+Dominican Republic,Both,years,8.26
+Ecuador,Males,years,9.09
+Ecuador,Females,years,9.05
+Ecuador,Both,years,9.07
+Egypt,Males,years,8.39
+Egypt,Females,years,5.64
+Egypt,Both,years,7.01
+El Salvador,Males,years,7.66
+El Salvador,Females,years,7.09
+El Salvador,Both,years,7.38
+Equatorial Guinea,Males,years,8.2
+Equatorial Guinea,Females,years,4.61
+Equatorial Guinea,Both,years,6.41
+Eritrea,Males,years,3.91
+Eritrea,Females,years,1.91
+Eritrea,Both,years,2.91
+Estonia,Males,years,12.89
+Estonia,Females,years,13.69
+Estonia,Both,years,13.29
+Ethiopia,Males,years,3.83
+Ethiopia,Females,years,1.66
+Ethiopia,Both,years,2.75
+Federated States of Micronesia,Males,years,12.22
+Federated States of Micronesia,Females,years,11.19
+Federated States of Micronesia,Both,years,11.71
+Fiji,Males,years,10.21
+Fiji,Females,years,10.21
+Fiji,Both,years,10.21
+Finland,Males,years,13.41
+Finland,Females,years,13.88
+Finland,Both,years,13.64
+France,Males,years,11.94
+France,Females,years,12.25
+France,Both,years,12.1
+Gabon,Males,years,7.54
+Gabon,Females,years,6.86
+Gabon,Both,years,7.2
+Georgia,Males,years,13.41
+Georgia,Females,years,13.59
+Georgia,Both,years,13.5
+Germany,Males,years,13.46
+Germany,Females,years,13.17
+Germany,Both,years,13.31
+Ghana,Males,years,7.92
+Ghana,Females,years,5.31
+Ghana,Both,years,6.61
+Greece,Males,years,11.71
+Greece,Females,years,11.19
+Greece,Both,years,11.45
+Grenada,Males,years,8.62
+Grenada,Females,years,8.51
+Grenada,Both,years,8.56
+Guatemala,Males,years,5.73
+Guatemala,Females,years,4.87
+Guatemala,Both,years,5.3
+Guinea,Males,years,3.31
+Guinea,Females,years,1.09
+Guinea,Both,years,2.2
+Guinea-Bissau,Males,years,3.26
+Guinea-Bissau,Females,years,1.16
+Guinea-Bissau,Both,years,2.21
+Guyana,Males,years,9.63
+Guyana,Females,years,9.57
+Guyana,Both,years,9.6
+Haiti,Males,years,5.35
+Haiti,Females,years,4.02
+Haiti,Both,years,4.68
+Honduras,Males,years,6.33
+Honduras,Females,years,6.43
+Honduras,Both,years,6.38
+Hungary,Males,years,12.74
+Hungary,Females,years,12.82
+Hungary,Both,years,12.78
+Iceland,Males,years,14.08
+Iceland,Females,years,14.02
+Iceland,Both,years,14.05
+India,Males,years,6.73
+India,Females,years,3.68
+India,Both,years,5.21
+Indonesia,Males,years,8.04
+Indonesia,Females,years,6.88
+Indonesia,Both,years,7.46
+Iran,Males,years,7.86
+Iran,Females,years,5.55
+Iran,Both,years,6.71
+Iraq,Males,years,8.07
+Iraq,Females,years,4.98
+Iraq,Both,years,6.52
+Ireland,Males,years,12.49
+Ireland,Females,years,13.02
+Ireland,Both,years,12.75
+Israel,Males,years,14.38
+Israel,Females,years,14.53
+Israel,Both,years,14.46
+Italy,Males,years,12.4
+Italy,Females,years,12.15
+Italy,Both,years,12.28
+Jamaica,Males,years,10.27
+Jamaica,Females,years,10.93
+Jamaica,Both,years,10.6
+Japan,Males,years,13.94
+Japan,Females,years,13.95
+Japan,Both,years,13.95
+Jordan,Males,years,10.83
+Jordan,Females,years,8.74
+Jordan,Both,years,9.78
+Kazakhstan,Males,years,12.69
+Kazakhstan,Females,years,12.77
+Kazakhstan,Both,years,12.73
+Kenya,Males,years,7.78
+Kenya,Females,years,5.55
+Kenya,Both,years,6.67
+Kiribati,Males,years,7.84
+Kiribati,Females,years,7.25
+Kiribati,Both,years,7.54
+Kuwait,Males,years,10.02
+Kuwait,Females,years,8.76
+Kuwait,Both,years,9.39
+Kyrgyzstan,Males,years,12.45
+Kyrgyzstan,Females,years,12.48
+Kyrgyzstan,Both,years,12.47
+Laos,Males,years,5.96
+Laos,Females,years,3.83
+Laos,Both,years,4.9
+Latin America and Caribbean,Males,years,7.96
+Latin America and Caribbean,Females,years,7.92
+Latin America and Caribbean,Both,years,7.94
+Latvia,Males,years,13.12
+Latvia,Females,years,13.74
+Latvia,Both,years,13.43
+Lebanon,Males,years,9.24
+Lebanon,Females,years,8.73
+Lebanon,Both,years,8.98
+Lesotho,Males,years,6.43
+Lesotho,Females,years,8.18
+Lesotho,Both,years,7.31
+Liberia,Males,years,6.11
+Liberia,Females,years,2.64
+Liberia,Both,years,4.37
+Libya,Males,years,7.08
+Libya,Females,years,4.26
+Libya,Both,years,5.67
+Lithuania,Males,years,12.36
+Lithuania,Females,years,12.62
+Lithuania,Both,years,12.49
+Luxembourg,Males,years,12.96
+Luxembourg,Females,years,12.59
+Luxembourg,Both,years,12.77
+Macedonia,Males,years,11.5
+Macedonia,Females,years,10.46
+Macedonia,Both,years,10.98
+Madagascar,Males,years,5.61
+Madagascar,Females,years,4.47
+Madagascar,Both,years,5.04
+Malawi,Males,years,5.62
+Malawi,Females,years,3.25
+Malawi,Both,years,4.44
+Malaysia,Males,years,9.45
+Malaysia,Females,years,8.11
+Malaysia,Both,years,8.78
+Maldives,Males,years,5.65
+Maldives,Females,years,4.99
+Maldives,Both,years,5.32
+Mali,Males,years,2.09
+Mali,Females,years,0.9
+Mali,Both,years,1.5
+Malta,Males,years,10.38
+Malta,Females,years,10.28
+Malta,Both,years,10.33
+Marshall Islands,Males,years,10.63
+Marshall Islands,Females,years,9.61
+Marshall Islands,Both,years,10.12
+Mauritania,Males,years,3.88
+Mauritania,Females,years,2.12
+Mauritania,Both,years,3
+Mauritius,Males,years,8.96
+Mauritius,Females,years,7.88
+Mauritius,Both,years,8.42
+Mexico,Males,years,8.73
+Mexico,Females,years,8.21
+Mexico,Both,years,8.47
+Moldova,Males,years,11.82
+Moldova,Females,years,12.07
+Moldova,Both,years,11.94
+Mongolia,Males,years,10.57
+Mongolia,Females,years,10.68
+Mongolia,Both,years,10.62
+Montenegro,Males,years,12.53
+Montenegro,Females,years,11.53
+Montenegro,Both,years,12.03
+Morocco,Males,years,4.41
+Morocco,Females,years,2.45
+Morocco,Both,years,3.43
+Mozambique,Males,years,4.23
+Mozambique,Females,years,2.54
+Mozambique,Both,years,3.38
+Myanmar,Males,years,5.95
+Myanmar,Females,years,5.34
+Myanmar,Both,years,5.65
+Namibia,Males,years,7.11
+Namibia,Females,years,7.01
+Namibia,Both,years,7.06
+Nepal,Males,years,4.64
+Nepal,Females,years,1.56
+Nepal,Both,years,3.1
+Netherlands,Males,years,13.82
+Netherlands,Females,years,13.61
+Netherlands,Both,years,13.72
+New Zealand,Males,years,13.86
+New Zealand,Females,years,14.16
+New Zealand,Both,years,14.01
+Nicaragua,Males,years,6.45
+Nicaragua,Females,years,6.56
+Nicaragua,Both,years,6.5
+Niger,Males,years,1.56
+Niger,Females,years,0.67
+Niger,Both,years,1.11
+Nigeria,Males,years,6.85
+Nigeria,Females,years,4.61
+Nigeria,Both,years,5.73
+North Korea,Males,years,10.83
+North Korea,Females,years,8.81
+North Korea,Both,years,9.82
+Norway,Males,years,14.12
+Norway,Females,years,14.36
+Norway,Both,years,14.24
+Oman,Males,years,6.39
+Oman,Females,years,4.12
+Oman,Both,years,5.25
+Pakistan,Males,years,5.7
+Pakistan,Females,years,2.33
+Pakistan,Both,years,4.02
+Palestine,Males,years,9.77
+Palestine,Females,years,7.61
+Palestine,Both,years,8.69
+Panama,Males,years,9.82
+Panama,Females,years,10.48
+Panama,Both,years,10.15
+Papua New Guinea,Males,years,5.42
+Papua New Guinea,Females,years,3.48
+Papua New Guinea,Both,years,4.45
+Paraguay,Males,years,7.92
+Paraguay,Females,years,8.18
+Paraguay,Both,years,8.05
+Peru,Males,years,10.34
+Peru,Females,years,9.09
+Peru,Both,years,9.71
+Philippines,Males,years,9.67
+Philippines,Females,years,10.03
+Philippines,Both,years,9.85
+Poland,Males,years,13.18
+Poland,Females,years,13.38
+Poland,Both,years,13.28
+Portugal,Males,years,8.57
+Portugal,Females,years,8.53
+Portugal,Both,years,8.55
+Qatar,Males,years,8.17
+Qatar,Females,years,8.27
+Qatar,Both,years,8.22
+Romania,Males,years,12.52
+Romania,Females,years,11.92
+Romania,Both,years,12.22
+Russia,Males,years,13.19
+Russia,Females,years,13.52
+Russia,Both,years,13.36
+Rwanda,Males,years,4.59
+Rwanda,Females,years,3.09
+Rwanda,Both,years,3.84
+Saint Lucia,Males,years,10
+Saint Lucia,Females,years,10.47
+Saint Lucia,Both,years,10.24
+Saint Vincent and the Grenadines,Males,years,8.62
+Saint Vincent and the Grenadines,Females,years,8.51
+Saint Vincent and the Grenadines,Both,years,8.56
+Samoa,Males,years,11.21
+Samoa,Females,years,11.59
+Samoa,Both,years,11.4
+Sao Tome and Principe,Males,years,5.74
+Sao Tome and Principe,Females,years,3.51
+Sao Tome and Principe,Both,years,4.63
+Saudi Arabia,Males,years,8.86
+Saudi Arabia,Females,years,4.84
+Saudi Arabia,Both,years,6.85
+Senegal,Males,years,3.6
+Senegal,Females,years,1.79
+Senegal,Both,years,2.69
+Serbia,Males,years,11.89
+Serbia,Females,years,11.36
+Serbia,Both,years,11.63
+Seychelles,Males,years,9.49
+Seychelles,Females,years,9.6
+Seychelles,Both,years,9.55
+Sierra Leone,Males,years,3.62
+Sierra Leone,Females,years,1.64
+Sierra Leone,Both,years,2.63
+Singapore,Males,years,11.31
+Singapore,Females,years,9.93
+Singapore,Both,years,10.62
+Slovakia,Males,years,12.86
+Slovakia,Females,years,12.49
+Slovakia,Both,years,12.67
+Slovenia,Males,years,12.63
+Slovenia,Females,years,12.42
+Slovenia,Both,years,12.53
+Solomon Islands,Males,years,7.43
+Solomon Islands,Females,years,5.64
+Solomon Islands,Both,years,6.53
+Somalia,Males,years,3.24
+Somalia,Females,years,1.19
+Somalia,Both,years,2.21
+South Africa,Males,years,9.17
+South Africa,Females,years,9.17
+South Africa,Both,years,9.17
+South Korea,Males,years,13.04
+South Korea,Females,years,11.41
+South Korea,Both,years,12.23
+South Sudan,Males,years,2.29
+South Sudan,Females,years,0.68
+South Sudan,Both,years,1.48
+Spain,Males,years,10.73
+Spain,Females,years,10.69
+Spain,Both,years,10.71
+Sri Lanka,Males,years,9.98
+Sri Lanka,Females,years,9.74
+Sri Lanka,Both,years,9.86
+Sudan,Males,years,5.12
+Sudan,Females,years,2.86
+Sudan,Both,years,3.99
+Suriname,Males,years,9.13
+Suriname,Females,years,8.68
+Suriname,Both,years,8.91
+Swaziland,Males,years,7.66
+Swaziland,Females,years,7.17
+Swaziland,Both,years,7.42
+Sweden,Males,years,13.4
+Sweden,Females,years,13.9
+Sweden,Both,years,13.65
+Switzerland,Males,years,14.4
+Switzerland,Females,years,13.81
+Switzerland,Both,years,14.11
+Syria,Males,years,7.58
+Syria,Females,years,4.97
+Syria,Both,years,6.28
+Taiwan,Males,years,11.88
+Taiwan,Females,years,10.57
+Taiwan,Both,years,11.23
+Tajikistan,Males,years,11.69
+Tajikistan,Females,years,10.38
+Tajikistan,Both,years,11.03
+Tanzania,Males,years,6.23
+Tanzania,Females,years,4.24
+Tanzania,Both,years,5.24
+Thailand,Males,years,8.44
+Thailand,Females,years,7.99
+Thailand,Both,years,8.22
+The Bahamas,Males,years,11.66
+The Bahamas,Females,years,12.25
+The Bahamas,Both,years,11.95
+The Gambia,Males,years,4.03
+The Gambia,Females,years,1.89
+The Gambia,Both,years,2.96
+Timor-Leste,Males,years,4.66
+Timor-Leste,Females,years,3.12
+Timor-Leste,Both,years,3.89
+Togo,Males,years,5.54
+Togo,Females,years,2.48
+Togo,Both,years,4.01
+Tonga,Males,years,10.75
+Tonga,Females,years,10.72
+Tonga,Both,years,10.74
+Trinidad and Tobago,Males,years,10.93
+Trinidad and Tobago,Females,years,11.16
+Trinidad and Tobago,Both,years,11.04
+Tropical Latin America,Males,years,6.84
+Tropical Latin America,Females,years,7.3
+Tropical Latin America,Both,years,7.07
+Tunisia,Males,years,8.22
+Tunisia,Females,years,5.31
+Tunisia,Both,years,6.76
+Turkey,Males,years,8.47
+Turkey,Females,years,6.2
+Turkey,Both,years,7.33
+Turkmenistan,Males,years,12.17
+Turkmenistan,Females,years,11.62
+Turkmenistan,Both,years,11.9
+Uganda,Males,years,6.71
+Uganda,Females,years,3.93
+Uganda,Both,years,5.32
+Ukraine,Males,years,13.5
+Ukraine,Females,years,13.7
+Ukraine,Both,years,13.6
+United Arab Emirates,Males,years,9.99
+United Arab Emirates,Females,years,7.78
+United Arab Emirates,Both,years,8.88
+United Kingdom,Males,years,14.04
+United Kingdom,Females,years,14.19
+United Kingdom,Both,years,14.11
+United States,Males,years,14.72
+United States,Females,years,14.84
+United States,Both,years,14.78
+Uruguay,Males,years,9.89
+Uruguay,Females,years,10.67
+Uruguay,Both,years,10.28
+Uzbekistan,Males,years,12.3
+Uzbekistan,Females,years,11.92
+Uzbekistan,Both,years,12.11
+Vanuatu,Males,years,8.1
+Vanuatu,Females,years,7.18
+Vanuatu,Both,years,7.64
+Venezuela,Males,years,9.05
+Venezuela,Females,years,9.16
+Venezuela,Both,years,9.1
+Vietnam,Males,years,9.06
+Vietnam,Females,years,7.73
+Vietnam,Both,years,8.4
+Yemen,Males,years,4.14
+Yemen,Females,years,0.96
+Yemen,Both,years,2.55
+Zambia,Males,years,7.86
+Zambia,Females,years,5.42
+Zambia,Both,years,6.64
+Zimbabwe,Males,years,8.74
+Zimbabwe,Females,years,7.1
+Zimbabwe,Both,years,7.92
